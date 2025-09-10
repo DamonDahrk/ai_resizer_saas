@@ -34,3 +34,12 @@ Prisma is used within an application to write and run database queries in a type
  while NeonDB provides the PostgreSQL database backend as a managed, scalable cloud service. 
  Developers can use Prisma as the ORM client and connect it to a NeonDB PostgreSQL instance for efficient, scalable database operations.
 
+sintalling filesize js
+A lightweight, high-performance file size utility for JavaScript that converts bytes 
+to human-readable strings.
+and installing dayjs 
+
+Day.js is a minimalist JavaScript library that parses, 
+validates, manipulates, and displays dates and times.
+
+sleek -> icons lucid react
